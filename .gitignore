@@ -29,7 +29,6 @@ venv/
 env/
 ENV/
 .venv/
-.idea/
 .vscode/
 
 #PyCharm / JetBrains
