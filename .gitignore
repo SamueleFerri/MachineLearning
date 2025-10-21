@@ -1,0 +1,41 @@
+#macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+*.manifest
+*.spec
+
+#Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+#PyCharm / JetBrains
+.idea/
+
+#Node or frontend (optional)
+node_modules/
+npm-debug.log
+yarn-error.log
